@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "proxy": "http://localhost:5000",
+  "proxy": "https://cleanandbright.netlify.app",
   "main": "index.js",
   "type": "module",
   "scripts": {
